@@ -1,9 +1,5 @@
-# Calculo de media
-Define uma função (calcular_media): Recebe dois valores numéricos (as notas), soma ambos e divide o resultado por 2 para encontrar a média aritmética.
 
-***
-# tecnologia utilizadas
- Projeto Exemplo: Calculadora de Média do Aluno
+# Projeto Exemplo: Calculadora de Média do Aluno
 def calcular_media(nota1, nota2):
     return (nota1 + nota2) / 2
 
